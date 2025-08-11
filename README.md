@@ -25,7 +25,6 @@ python Main.py
 ```
 
 # Architecture
-**Main concept**
 **Layer structure**
 **Forecasting performance**
 **Ablation studies**
