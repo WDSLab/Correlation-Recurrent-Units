@@ -44,7 +44,6 @@ class _CRUCell(nn.Module):
             hid_state.cuda()
         
         with torch.no_grad():
-            print(x_t.size())
             x_t = self.wx_t(x_t).to(self.device)
             x_s = self.wx_s(x_s).to(self.device)
             x_r = self.wx_r(x_r).to(self.device)
