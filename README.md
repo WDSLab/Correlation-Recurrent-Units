@@ -3,6 +3,7 @@ The repo is the official implementation for the paper: [Correlation Recurrent Un
 
 # Architecture
 **Main concept**
-![Image]()
 **Layer structure**
-![Image]()
+**Forecasting performance**
+**Ablation studies**
+
