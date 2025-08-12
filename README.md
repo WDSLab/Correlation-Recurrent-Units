@@ -28,6 +28,6 @@ python Main.py
 **Layer structure**
 <img width="1570" height="862" alt="Image" src="https://github.com/user-attachments/assets/9319b963-4339-4b16-a1eb-70152ddb691a" />
 **Forecasting performance**
-<img width="1476" height="831" alt="Image" src="https://github.com/user-attachments/assets/607b2c95-d567-4eb0-88fe-de5445459d69" />
+![Image](https://github.com/user-attachments/assets/f2e2eddf-9c7b-43e0-beeb-f9f2d4b3e0e2)
 
 
