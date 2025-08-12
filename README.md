@@ -26,6 +26,8 @@ python Main.py
 
 # Architecture
 **Layer structure**
+<img width="1570" height="862" alt="Image" src="https://github.com/user-attachments/assets/9319b963-4339-4b16-a1eb-70152ddb691a" />
 **Forecasting performance**
-**Ablation studies**
+<img width="1476" height="831" alt="Image" src="https://github.com/user-attachments/assets/607b2c95-d567-4eb0-88fe-de5445459d69" />
+
 
