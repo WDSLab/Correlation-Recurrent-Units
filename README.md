@@ -30,14 +30,14 @@ python Main.py
 
 # Forecasting performance
 
-## Correlation-Recurrent-Units
+### Correlation-Recurrent-Units
 ![Image](https://github.com/user-attachments/assets/f2e2eddf-9c7b-43e0-beeb-f9f2d4b3e0e2)
 
-**RNN**
+### RNN
 ![Image](https://github.com/user-attachments/assets/9375c5d7-aefb-4024-ba36-4a221c2710d3)
 
-**LSTM**
+### LSTM**
 ![Image](https://github.com/user-attachments/assets/c881b984-1e6e-4067-aee4-74ae1bbd2274)
 
-**GRU**
+### GRU**
 ![Image](https://github.com/user-attachments/assets/87ddd023-2391-4835-8ea2-0c114be980a9)
